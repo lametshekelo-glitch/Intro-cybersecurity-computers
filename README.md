@@ -1,4 +1,2 @@
-# Intro-cybersecurity-computers
-Introduction of computers in cybersecurity 
-Phishing:use of fake emails ,to access data
-Phishing awareness;use of strong passwords, avoid clicking on suspicious links 
+Cybersecurity-Awareness-for-Student
+Student cybersecurity awareness guide covering online threats, phishing prevention, password safety and secure digital practices.
